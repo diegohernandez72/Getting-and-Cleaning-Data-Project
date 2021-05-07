@@ -2,7 +2,7 @@
 
 Dataset downloaded from site and unzip under the R folder .data/"UCI HAR Dataset"
 
-#### Reading the data and variable assignment These functions read the metadata and assign it to the variables "features" and "activitylabels"
+#### Reading the data and variable assignment. These functions read the metadata and assign it to the variables "features" and "activitylabels"
 
 • **`features`**`<- read.table("UCI HAR Dataset/features.txt.", header = FALSE, sep = "")` *this variable contains 561 rows with the cellphone movement's data from the features.txt file.*
 
