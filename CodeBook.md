@@ -1,6 +1,6 @@
 ## The run_analysis.R script has the data and the 5 steps required in the course project's instructions, and is described as follows:
 
-Download the dataset Dataset downloaded from site and unzip under the R folder .data/"UCI HAR Dataset"
+Dataset downloaded from site and unzip under the R folder .data/"UCI HAR Dataset"
 
 #### Reading the data and variable assignment These functions read the metadata and assign it to the variables "features" and "activitylabels"
 
